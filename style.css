@@ -1,5 +1,5 @@
 .jumbotron {
-  padding-top: 6rem;
+  padding-top: 7rem;
   background-color: #e2edff;
 }
 
@@ -8,7 +8,7 @@
 }
 
 section {
-  padding-top: 5rem;
+  padding-top: 7rem;
 }
 
 /* My Keyboard Section */
@@ -21,7 +21,7 @@ section {
 }
 
 .keyboard-box::before {
-  content: 'MY';
+  content: "MY";
   position: absolute;
   color: #fff;
   font-size: 6em;
@@ -39,7 +39,7 @@ section {
 }
 
 .keyboard-box::after {
-  content: 'KEYBOARD';
+  content: "KEYBOARD";
   position: absolute;
   color: #fff;
   font-size: 4.3em;
